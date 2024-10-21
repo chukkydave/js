@@ -1,4 +1,4 @@
-Here are detailed lesson notes for each of the topics you’ve mentioned, including explanations, examples, use cases (beginner and advanced), edge cases, and classwork:
+
 
 1. Data Types
 
