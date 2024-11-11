@@ -1,4 +1,3 @@
-Here’s a detailed breakdown with beginner-friendly explanations and examples for each topic in your Next.js teaching plan:
 
 Lesson 1: Introduction to React and Next.js
 
